@@ -1,2 +1,3 @@
 [project]
 name = Meu Lektor Blog
+url_style = relative
